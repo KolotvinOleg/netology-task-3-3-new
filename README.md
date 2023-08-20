@@ -1,5 +1,5 @@
 # Немного о себе
-<image src="/images/фото.jpg" alt="Фотография">
+<image src="/images/фото.jpg" alt="Фотография" width="200"/>
 
 ## Меня зовут Олег
 
